@@ -2,7 +2,7 @@
   "name": "survey-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yupad.github.io/survey-app",
+  "homepage": "https://Yup0103.github.io/MarketSurvey",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
