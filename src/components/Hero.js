@@ -1,11 +1,21 @@
 import React from 'react';
 import SurveyForm from './SurveyForm';
+import surveyIllustration from '../images/survey-illustration.jpg';
 
 const Hero = () => {
   return (
     <div className="relative bg-secondary">
+      {/* Background Image */}
+      <div
+        className="absolute inset-0 z-0 opacity-20 bg-cover bg-center bg-no-repeat"
+        style={{
+          backgroundImage: `url(${surveyIllustration})`,
+          backgroundSize: 'cover',
+          backgroundPosition: 'center'
+        }}
+      />
       {/* Content */}
-      <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8 flex flex-col lg:flex-row items-center">
+      <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8 flex flex-col lg:flex-row items-center relative z-10">
         <div className="lg:w-1/2 lg:pr-12">
           <h2 className="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl">
             <span className="block">Join Our Survey Panel</span>
