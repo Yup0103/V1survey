@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MarketSurvey/static/css/main.d748738f.css",
+    "main.js": "/MarketSurvey/static/js/main.00d29c2e.js",
+    "static/js/453.47b168d8.chunk.js": "/MarketSurvey/static/js/453.47b168d8.chunk.js",
+    "static/media/BGimage.jpg": "/MarketSurvey/static/media/BGimage.ee0713750e4db4e9d893.jpg",
+    "index.html": "/MarketSurvey/index.html",
+    "main.d748738f.css.map": "/MarketSurvey/static/css/main.d748738f.css.map",
+    "main.00d29c2e.js.map": "/MarketSurvey/static/js/main.00d29c2e.js.map",
+    "453.47b168d8.chunk.js.map": "/MarketSurvey/static/js/453.47b168d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d748738f.css",
+    "static/js/main.00d29c2e.js"
+  ]
+}
